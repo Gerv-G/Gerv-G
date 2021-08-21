@@ -4,7 +4,7 @@ I'm a software engineer working mostly on web services for enterprise applicatio
 Outside of my day job, I enjoy reading about software development, and I love sharing about my learnings and experiences too! Check out my blog and our programming community below.
 
 #### Other Things About Me
-- 🔭 I’m currently working on [JRail](https://github.com/Gerv-G/jrail) if I'm not feeling lazy :joy:
+- 🔭 I’m working on my personal project called [JRail](https://github.com/Gerv-G/jrail) whenever I'm not feeling lazy :joy:
 - 🌱 I’m currently learning **Go** and exploring Agile methodologies particularly **Scrum**
 - 💬 Ask me about stuff related to **backend development**
 - ⚡ Fun fact: I like music particularly Jazz and I sometimes try writing (incomplete) pieces for :musical_keyboard:
