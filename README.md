@@ -32,4 +32,9 @@ Outside of my day job, I enjoy reading about software development, and I love sh
 
 ## 📝 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [My Experiences in Writing and Publishing My First Java Library](https://dev.to/gervg/my-experiences-in-writing-and-publishing-my-first-java-library-11hc)
+- [In Defense of the Spaghetti Code](https://dev.to/gervg/in-defense-of-the-spaghetti-code-1oha)
+- [Step by Step Introduction to Unit Testing in Java](https://dev.to/gervg/step-by-step-introduction-to-unit-testing-in-java-3ae7)
+- [On Trunk-based Development](https://dev.to/gervg/on-trunk-based-development-3n10)
+- [Finally starting a blog](https://dev.to/gervg/finally-starting-a-blog-3i3l)
 <!-- BLOG-POST-LIST:END -->
