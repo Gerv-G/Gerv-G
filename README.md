@@ -1,19 +1,20 @@
-## Hi there! I'm Gervin 👋
-I'm a software engineer working mostly on backend services for enterprise applications.
+## Hi there! I'm Gervin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+I'm a software engineer working mostly on web services for enterprise applications.
 
-Outside of my day job, I enjoy reading about software development, and I love sharing about my learnings and experiences too! Check out my blog and our programming community below :point_down:
+Outside of my day job, I enjoy reading about software development, and I love sharing about my learnings and experiences too! Check out my blog and our programming community below.
+
+#### Other Things About Me
+- 🔭 I’m currently working on [JRail](https://github.com/Gerv-G/jrail) if I'm not feeling lazy :joy:
+- 🌱 I’m currently learning **Go** and exploring Agile methodologies particularly **Scrum**
+- 💬 Ask me about stuff related to **backend development**
+- ⚡ Fun fact: I like music particularly Jazz and I sometimes try writing (incomplete) pieces for :musical_keyboard:
 
 ## 📫 How to reach me around the web
-<ul style="list-style-type:none;">
-    <li><img src="linkedin.png" height="15"> I'm on <a href="https://www.linkedin.com/in/gervin-guevarra/">LinkedIn</a> </li>
-    <li>📝 I write my blog on <a href="https://dev.to/gervg">Dev.to</a></li>
-    <li>👯 I  am an admin at <b>Programming Philippines</b>, an online community of Filipino programmers
-        <ul>
-            <li><img src="discord.png" height="15"><a href="https://discord.gg/6Nb9prc9nu"> Discord server</a></li>
-            <li><img src="facebook.png" height="15"><a href="https://www.facebook.com/groups/649943542157470"> Facebook group</a></li>
-        </ul>
-    </li>
-</ul>
+- <img src="linkedin.png" height="15"> I'm on [LinkedIn](https://www.linkedin.com/in/gervin-guevarra/)
+- 📝 I write my blog on [Dev.to](https://dev.to/gervg)
+- 👯 I  am an admin at **Programming Philippines**, an online community of Filipino programmers
+     - <img src="discord.png" height="15"> [Discord server](https://discord.gg/6Nb9prc9nu)
+     - <img src="facebook.png" height="15">[ Programming Philippines](https://www.facebook.com/groups/649943542157470)
 
 
 ## 🧰 Languages and Tools
