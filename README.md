@@ -1,12 +1,10 @@
 ## Hi there! I'm Gervin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-I'm a software engineer working mostly on web services for enterprise applications.
-
-Outside of my day job, I enjoy reading about software development, and I love sharing about my learnings and experiences too! Check out my blog and our programming community below.
+I'm a software developer working mostly on web services for enterprise applications.
 
 #### Other Things About Me
 - 🔭 I’m working on my personal project called [JRail](https://github.com/Gerv-G/jrail) whenever I'm not feeling lazy :joy:
-- 🌱 I’m currently learning **Go** and exploring Agile methodologies particularly **Scrum**
-- 💬 Ask me about stuff related to **backend development**
+- 🌱 I’m currently trying to learn frontend-related technologies: **NodeJS** and **TypeScript**
+- 💬 I love discussing stuff about software architecture and engineering best practices
 - ⚡ Fun fact: I like music particularly Jazz and I sometimes try writing (incomplete) pieces for :musical_keyboard:
 
 ## 📫 How to reach me around the web
@@ -19,6 +17,7 @@ Outside of my day job, I enjoy reading about software development, and I love sh
 
 ## 🧰 Languages and Tools
 <p align="center">
+<img src="csharp.png" alt="C#" height="40" style="vertical-align:top; margin:4px">
 <img src="java.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
 <img src="spring.png" alt="Spring" height="40" style="vertical-align:top; margin:4px">
 <img src="gradle.png" alt="Gradle" height="40" style="vertical-align:top; margin:4px">
