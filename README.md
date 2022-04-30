@@ -11,8 +11,8 @@ I'm a software developer working mostly on web services for enterprise applicati
 - <img src="linkedin.png" height="15"> I'm on [LinkedIn](https://www.linkedin.com/in/gervin-guevarra/)
 - 📝 I write my blog on [Dev.to](https://dev.to/gervg)
 - 👯 I  am an admin at **Programming Philippines**, an online community of Filipino programmers
-     - <img src="discord.png" height="15"> [Discord server](https://discord.gg/6Nb9prc9nu)
-     - <img src="facebook.png" height="15">[ Programming Philippines](https://www.facebook.com/groups/649943542157470)
+     - <img src="discord.png" height="15"> [Discord server](https://discord.gg/MmWwgXQezf)
+     - <img src="facebook.png" height="15"> [Programming Philippines](https://www.facebook.com/groups/programming.philippines/)
 
 
 ## 🧰 Languages and Tools
