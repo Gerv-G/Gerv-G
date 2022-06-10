@@ -1,4 +1,4 @@
-## Hi there! I'm Gervin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+## Hi there! I'm Gervin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">
 I'm a software developer working mostly on web services for enterprise applications.
 
 #### Other Things About Me
