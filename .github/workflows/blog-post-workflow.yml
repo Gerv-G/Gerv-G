@@ -2,8 +2,8 @@ name: Latest blog post workflow
 on:
   workflow_dispatch:
   schedule:
-    # Runs every 7 days
-    - cron: '0 0 */7 * *'
+    # Runs once a month because I'm too lazy to finish my blog drafts
+    - cron: '0 0 1 */1 *'
 
 jobs:
   update-readme-with-blog:
