@@ -13,7 +13,7 @@ I'm a software developer working mostly on web services for enterprise applicati
 - 👯 I  am an admin at **Programming Philippines**, an online community of Filipino programmers
      - <img src="discord.png" height="15"> [Discord server](https://discord.gg/MmWwgXQezf)
      - <img src="facebook.png" height="15"> [Programming Philippines](https://www.facebook.com/groups/programming.philippines/)
-
+- :email: [gerv.guev.dev@gmail.com](mailto:gerv.guev.dev@gmail.com)
 
 ## 🧰 Languages and Tools
 <p align="center">
