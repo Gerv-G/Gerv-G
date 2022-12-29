@@ -31,9 +31,9 @@ I'm a software developer working mostly on web services for enterprise applicati
 
 ## 📝 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Test-Driven Development isn&#39;t about Unit Tests](https://dev.to/gervg/test-driven-development-isnt-about-unit-tests-48e3)
 - [Musings on my 5th year as a Software Engineer](https://dev.to/gervg/musings-on-my-5th-year-as-a-software-engineer-5dcn)
 - [How to Think in Object-Oriented Way](https://dev.to/gervg/how-to-think-in-object-oriented-way-29a2)
 - [Fluent If-Else statements?](https://dev.to/gervg/fluent-if-else-statements-mc3)
 - [My Experiences in Writing and Publishing My First Java Library](https://dev.to/gervg/my-experiences-in-writing-and-publishing-my-first-java-library-11hc)
-- [In Defense of the Spaghetti Code](https://dev.to/gervg/in-defense-of-the-spaghetti-code-1oha)
 <!-- BLOG-POST-LIST:END -->
