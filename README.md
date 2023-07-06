@@ -36,6 +36,10 @@ I'm a software developer working mostly on web services for enterprise applicati
 - [How to Think in Object-Oriented Way](https://dev.to/gervg/how-to-think-in-object-oriented-way-29a2)
 - [Fluent If-Else statements?](https://dev.to/gervg/fluent-if-else-statements-mc3)
 - [My Experiences in Writing and Publishing My First Java Library](https://dev.to/gervg/my-experiences-in-writing-and-publishing-my-first-java-library-11hc)
+- [In Defense of the Spaghetti Code](https://dev.to/gervg/in-defense-of-the-spaghetti-code-1oha)
+- [Step by Step Introduction to Unit Testing in Java](https://dev.to/gervg/step-by-step-introduction-to-unit-testing-in-java-3ae7)
+- [On Trunk-based Development](https://dev.to/gervg/on-trunk-based-development-3n10)
+- [Finally starting a blog](https://dev.to/gervg/finally-starting-a-blog-3i3l)
 <!-- BLOG-POST-LIST:END -->
 
 See more at https://dev.to/gervg
