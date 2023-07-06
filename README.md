@@ -29,7 +29,7 @@ I'm a software developer working mostly on web services for enterprise applicati
 <img src="kubernetes.png" alt="Kubernetes" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-## 📝 My Latest Blog Posts
+## 📝 My Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Test-Driven Development isn&#39;t about Unit Tests](https://dev.to/gervg/test-driven-development-isnt-about-unit-tests-48e3)
 - [Musings on my 5th year as a Software Engineer](https://dev.to/gervg/musings-on-my-5th-year-as-a-software-engineer-5dcn)
@@ -37,3 +37,5 @@ I'm a software developer working mostly on web services for enterprise applicati
 - [Fluent If-Else statements?](https://dev.to/gervg/fluent-if-else-statements-mc3)
 - [My Experiences in Writing and Publishing My First Java Library](https://dev.to/gervg/my-experiences-in-writing-and-publishing-my-first-java-library-11hc)
 <!-- BLOG-POST-LIST:END -->
+
+See more at https://dev.to/gervg
