@@ -31,6 +31,7 @@ I'm a software developer working mostly on web services for enterprise applicati
 
 ## 📝 My Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Newbie Anew](https://dev.to/gervg/newbie-anew-5101)
 - [Test-Driven Development isn&#39;t about Unit Tests](https://dev.to/gervg/test-driven-development-isnt-about-unit-tests-48e3)
 - [Musings on my 5th year as a Software Engineer](https://dev.to/gervg/musings-on-my-5th-year-as-a-software-engineer-5dcn)
 - [How to Think in Object-Oriented Way](https://dev.to/gervg/how-to-think-in-object-oriented-way-29a2)
