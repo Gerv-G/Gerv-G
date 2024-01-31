@@ -31,6 +31,7 @@ I'm a software developer working mostly on web services for enterprise applicati
 
 ## 📝 My Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Event Streaming and Event Sourcing: which one do you use?](https://dev.to/gervg/event-streaming-and-event-sourcing-which-one-do-you-use-4e45)
 - [Newbie Anew](https://dev.to/gervg/newbie-anew-5101)
 - [Test-Driven Development isn&#39;t about Unit Tests](https://dev.to/gervg/test-driven-development-isnt-about-unit-tests-48e3)
 - [Musings on my 5th year as a Software Engineer](https://dev.to/gervg/musings-on-my-5th-year-as-a-software-engineer-5dcn)
@@ -40,7 +41,6 @@ I'm a software developer working mostly on web services for enterprise applicati
 - [In Defense of the Spaghetti Code](https://dev.to/gervg/in-defense-of-the-spaghetti-code-1oha)
 - [Step by Step Introduction to Unit Testing in Java](https://dev.to/gervg/step-by-step-introduction-to-unit-testing-in-java-3ae7)
 - [On Trunk-based Development](https://dev.to/gervg/on-trunk-based-development-3n10)
-- [Finally starting a blog](https://dev.to/gervg/finally-starting-a-blog-3i3l)
 <!-- BLOG-POST-LIST:END -->
 
 See more at https://dev.to/gervg
