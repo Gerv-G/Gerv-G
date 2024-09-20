@@ -10,8 +10,8 @@ I'm a software developer working mostly on web services for enterprise applicati
 ## 📫 How to reach me around the web
 - <img src="linkedin.png" height="15"> I'm on [LinkedIn](https://www.linkedin.com/in/gervin-guevarra/)
 - 📝 I write my blog on [Dev.to](https://dev.to/gervg)
-- 👯 I  am an admin at **Programming Philippines**, an online community of Filipino programmers
-     - <img src="discord.png" height="15"> [Discord server](https://discord.gg/MmWwgXQezf)
+- 👨‍💻 I  am an admin at [**pandesal.dev**](https://discord.com/servers/pandesal-dev-748554476398444635), an online community of Filipino programmers
+     - <img src="discord.png" height="15"> [Join us on Discord](https://discord.gg/MmWwgXQezf)
 - :email: [gerv.guev.dev@gmail.com](mailto:gerv.guev.dev@gmail.com)
 
 ## 🧰 Languages and Tools
