@@ -30,16 +30,15 @@ I'm a software developer working mostly on web services for enterprise applicati
 
 ## 📝 My Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Event Streaming and Event Sourcing: which one do you use?](https://dev.to/gervg/event-streaming-and-event-sourcing-which-one-do-you-use-4e45)
-- [Newbie Anew](https://dev.to/gervg/newbie-anew-5101)
-- [Test-Driven Development isn&#39;t about Unit Tests](https://dev.to/gervg/test-driven-development-isnt-about-unit-tests-48e3)
-- [Musings on my 5th year as a Software Engineer](https://dev.to/gervg/musings-on-my-5th-year-as-a-software-engineer-5dcn)
-- [How to Think in Object-Oriented Way](https://dev.to/gervg/how-to-think-in-object-oriented-way-29a2)
-- [Fluent If-Else statements?](https://dev.to/gervg/fluent-if-else-statements-mc3)
-- [My Experiences in Writing and Publishing My First Java Library](https://dev.to/gervg/my-experiences-in-writing-and-publishing-my-first-java-library-11hc)
-- [In Defense of the Spaghetti Code](https://dev.to/gervg/in-defense-of-the-spaghetti-code-1oha)
-- [Step by Step Introduction to Unit Testing in Java](https://dev.to/gervg/step-by-step-introduction-to-unit-testing-in-java-3ae7)
-- [On Trunk-based Development](https://dev.to/gervg/on-trunk-based-development-3n10)
+- [Musings on my 5th year as a Software Engineer](https://gerv-g.github.io/posts/musings-on-5th-yr-career/)
+- [Test-Driven Development isn’t about Unit Tests](https://gerv-g.github.io/posts/tdd-is-not-about-unit-tests/)
+- [Newbie Anew](https://gerv-g.github.io/posts/newbie-anew/)
+- [My Experiences in Writing and Publishing My First Java Library](https://gerv-g.github.io/posts/publishing-my-first-java-library/)
+- [How to Think in Object-Oriented Way](https://gerv-g.github.io/posts/how-to-think-in-oo-way/)
+- [In Defense of the Spaghetti Code](https://gerv-g.github.io/posts/in-defense-of-spaghetti-code/)
+- [Step by Step Introduction to Unit Testing in Java](https://gerv-g.github.io/posts/step-by-step-intro-to-unit-testing-java/)
+- [Finally starting a blog](https://gerv-g.github.io/posts/finally-starting-a-blog/)
+- [On Trunk-based Development](https://gerv-g.github.io/posts/on-trunk-based-development/)
 <!-- BLOG-POST-LIST:END -->
 
 See more at https://dev.to/gervg
