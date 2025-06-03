@@ -9,7 +9,7 @@ I'm a software developer working mostly on web services for enterprise applicati
 
 ## 📫 How to reach me around the web
 - <img src="linkedin.png" height="15"> I'm on [LinkedIn](https://www.linkedin.com/in/gervin-guevarra/)
-- 📝 I write my blog on [Dev.to](https://dev.to/gervg)
+- 📝 I write my blog on https://gerv-g.github.io/
 - 👨‍💻 I  am an admin at [**pandesal.dev**](https://discord.com/servers/pandesal-dev-748554476398444635), an online community of Filipino programmers
      - <img src="discord.png" height="15"> [Join us on Discord](https://discord.gg/MmWwgXQezf)
 - :email: [gerv.guev.dev@gmail.com](mailto:gerv.guev.dev@gmail.com)
@@ -28,7 +28,7 @@ I'm a software developer working mostly on web services for enterprise applicati
 <img src="kubernetes.png" alt="Kubernetes" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-## 📝 My Blog Posts
+## 📝 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Musings on my 5th year as a Software Engineer](https://gerv-g.github.io/posts/musings-on-5th-yr-career/)
 - [Test-Driven Development isn’t about Unit Tests](https://gerv-g.github.io/posts/tdd-is-not-about-unit-tests/)
@@ -40,5 +40,3 @@ I'm a software developer working mostly on web services for enterprise applicati
 - [Finally starting a blog](https://gerv-g.github.io/posts/finally-starting-a-blog/)
 - [On Trunk-based Development](https://gerv-g.github.io/posts/on-trunk-based-development/)
 <!-- BLOG-POST-LIST:END -->
-
-See more at https://dev.to/gervg
