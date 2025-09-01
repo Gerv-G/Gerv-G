@@ -30,6 +30,7 @@ I'm a software developer working mostly on web services for enterprise applicati
 
 ## 📝 My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [On Yet Another Forecast Of Our Irrelevance](https://gerv-g.github.io/posts/on-yet-another-forecast-of-irrelevance/)
 - [Musings on my 5th year as a Software Engineer](https://gerv-g.github.io/posts/musings-on-5th-yr-career/)
 - [Test-Driven Development isn’t about Unit Tests](https://gerv-g.github.io/posts/tdd-is-not-about-unit-tests/)
 - [Newbie Anew](https://gerv-g.github.io/posts/newbie-anew/)
